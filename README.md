@@ -53,7 +53,7 @@ filters, and marketing components like sliders and carousels.
 We developed the template keeping SEO in mind: schema markup, sitemap, and 
 all necessary meta-tags.
 
-Shopping cart with a nice animated widget and [Fully customizable React checkout](https://github.com/kirill-zhirnov/boundless-checkout-react).
+Shopping cart with a nice animated widget and [Fully customizable React checkout](https://github.com/legendarydeveloper919/boundless-checkout-react).
 
 User friendly mobile version.
 
